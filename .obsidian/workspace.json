@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd4a462492752f03",
+        "id": "a9fe75e1b9bde45c",
         "type": "tabs",
         "children": [
           {
-            "id": "c3c12907d8cb06ed",
+            "id": "8770c9f1fccf93e0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
