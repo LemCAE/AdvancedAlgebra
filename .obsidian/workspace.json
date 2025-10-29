@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "cccdab01d727a61b",
+    "type": "split",
+    "children": [
+      {
+        "id": "de736fd766a79f16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74af1a03a2419719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拓展链接/零因子.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "零因子"
+            }
+          },
+          {
+            "id": "dce0ad8130b787e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第一章 多项式/章节笔记.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "章节笔记"
+            }
+          },
+          {
+            "id": "a9cc7966c217396d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拓展链接/数学归纳法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数学归纳法"
+            }
+          },
+          {
+            "id": "4f1f162e2eb9d5b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "as.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "as"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12ec0984f1f6df9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd06b937185fc81d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b5774ad39a25e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3735f67196b77102",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d03d9c3abdde4522",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "2b83eee0e101753b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第一章 多项式/章节笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "章节笔记 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a594c7271126f72b",
+    "type": "split",
+    "children": [
+      {
+        "id": "684fe177d7840335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72dffa514966975d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第一章 多项式/章节笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "章节笔记 的反向链接列表"
+            }
+          },
+          {
+            "id": "180ee3f8aa21272a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "95d210ede958dec2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "dce0ad8130b787e8",
+  "lastOpenFiles": [
+    "as.md",
+    "第一章 多项式/章节笔记.md",
+    "Pasted image 20251029200618.png",
+    "拓展链接/数学归纳法.md",
+    "拓展链接/零因子.md",
+    "拓展链接",
+    "未命名.md",
+    "拓展链接/封闭.md",
+    "符号的定义/符号定义.md",
+    "Obsidian.lnk",
+    "_Templates/tp-笔记模板.md",
+    "2025-10-28.md",
+    "第一章 多项式/知识笔记 1.md",
+    "符号的定义",
+    "第一章 多项式/未命名.md",
+    "_Templates",
+    "第一章 多项式",
+    "未命名.canvas",
+    "欢迎.md",
+    "创建链接.md"
+  ]
+}

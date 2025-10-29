@@ -1,0 +1,77 @@
+{
+  "userAdmonitions": {
+    "def": {
+      "type": "def",
+      "color": "0, 179, 255",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "定义",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "theorem": {
+      "type": "theorem",
+      "color": "0, 184, 80",
+      "icon": {
+        "name": "align-left",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "定理",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "proof": {
+      "type": "proof",
+      "color": "120, 120, 120",
+      "icon": {
+        "name": "angle-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "证明",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "corollary": {
+      "type": "corollary",
+      "color": "34, 204, 0",
+      "icon": {
+        "name": "angle-double-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "推论",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.e87b35"
+}
