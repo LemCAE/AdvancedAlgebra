@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 多项式/章节笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "章节笔记 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -156,13 +155,11 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,13 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31b02b9d0654cc88",
+  "active": "10b5774ad39a25e5",
   "lastOpenFiles": [
-    "as.md",
+    "Pasted image 20251029200618.png",
+    "temp.md",
     "第一章 多项式/章节笔记.md",
     "拓展链接/数学归纳法.md",
     "拓展链接/零因子.md",
-    "Pasted image 20251029200618.png",
     "拓展链接",
     "未命名.md",
     "拓展链接/封闭.md",
