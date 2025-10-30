@@ -1,6 +1,6 @@
 {
-  "commitMessage": "\"{{date}}{{hostname}}\"",
-  "autoCommitMessage": "\"{{date}}{{hostname}}\"",
+  "commitMessage": "{{date}}{{hostname}}",
+  "autoCommitMessage": "{{date}}{{hostname}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
