@@ -51,6 +51,32 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "lemma": {
+      "type": "lemma",
+      "color": "0, 184, 80",
+      "icon": {
+        "name": "align-left",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "引理",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "proposition": {
+      "type": "proposition",
+      "color": "0, 118, 168",
+      "icon": {
+        "name": "arrow-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "命题",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,

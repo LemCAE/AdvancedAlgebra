@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d3dcb3d3a23615d",
+        "id": "76143c1c2394e028",
         "type": "tabs",
         "children": [
           {
-            "id": "0f321f8d6913994a",
+            "id": "3497cdacd1239d26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "第一章 多项式/章节笔记.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "2b83eee0e101753b",
+            "id": "09739e993f0acee8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -120,7 +120,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "第一章 多项式/章节笔记.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -129,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "章节笔记 的反向链接列表"
             }
           },
           {
@@ -181,12 +182,16 @@
   },
   "active": "31b02b9d0654cc88",
   "lastOpenFiles": [
-    "符号的定义/符号定义.md",
-    "拓展链接/封闭.md",
-    "拓展链接/零因子.md",
-    "拓展链接/数学归纳法.md",
+    "章节笔记^.md",
     "第一章 多项式/章节笔记.md",
-    "未命名.md",
+    "拓展链接/佩龙判别法.md",
+    "拓展链接/模约简测试.md",
+    "拓展链接/数学归纳法.md",
+    "拓展链接/模运算.md",
+    "拓展链接/零因子.md",
+    "第二章 行列式",
+    "拓展链接/封闭.md",
+    "符号的定义/符号定义.md",
     "Pasted image 20251029200618.png",
     "temp.md",
     "拓展链接",
