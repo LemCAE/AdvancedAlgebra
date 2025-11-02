@@ -1,5 +1,8 @@
 {
   "accentColor": "#1132f5",
   "cssTheme": "Minimal",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "sdf"
+  ]
 }
