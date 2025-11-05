@@ -22,52 +22,38 @@
             }
           },
           {
-            "id": "cd52244d0db9efea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "拓展链接/有限域分解算法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "有限域分解算法"
-            }
-          },
-          {
             "id": "8988963696ce636b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 多项式/章节笔记.md",
+                "file": "第二章 行列式/章节笔记.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "章节笔记"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "627a781ee156a986",
+        "id": "06c1bd246103938a",
         "type": "tabs",
         "children": [
           {
-            "id": "f0597953e6be698b",
+            "id": "219b987eec944338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "拓展链接/牛顿多边形方法.md",
-                "mode": "source",
+                "file": "第二章 行列式/章节笔记.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "牛顿多边形方法"
+              "title": "章节笔记"
             }
           }
         ]
@@ -102,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拓展链接/牛顿多边形方法.md",
+                "file": "第二章 行列式/章节笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "牛顿多边形方法 的大纲"
+              "title": "章节笔记 的大纲"
             }
           },
           {
@@ -231,14 +217,25 @@
   },
   "active": "31b02b9d0654cc88",
   "lastOpenFiles": [
+    "第二章 行列式/ImgSet/Pasted image 20251105151907.png",
+    "第二章 行列式/章节笔记.md",
+    "第二章 行列式/ImgSet/Pasted image 20251105151828.png",
+    "第二章 行列式/ImgSet/Pasted image 20251105151704.png",
     "拓展链接/模约简测试.md",
+    "Pasted image 20251105150456.png",
+    "第二章 行列式/ImgSet/Pasted image 20251105151455.png",
+    "第二章 行列式/ImgSet",
+    "第二章 行列式/ImgSet/Pasted image 20251105151304.png",
+    "Pasted image 20251105151012.png",
+    "Pasted image 20251105150829.png",
+    "Pasted image 20251105150633.png",
+    "Pasted image 20251105150535.png",
+    "符号的定义/符号定义.md",
+    "第一章 多项式/章节笔记.md",
     "拓展链接/p-adic性质.md",
     "拓展链接/牛顿多边形方法.md",
     "p-adic性质.md",
-    "第一章 多项式/章节笔记.md",
-    "第二章 行列式/章节笔记.md",
     "拓展链接/有限域分解算法.md",
-    "符号的定义/符号定义.md",
     "拓展链接/模运算.md",
     "拓展链接/佩龙判别法.md",
     "拓展链接/数学归纳法.md",
@@ -246,7 +243,6 @@
     "拓展链接/零因子.md",
     "章节笔记^.md",
     "第二章 行列式",
-    "Pasted image 20251029200618.png",
     "temp.md",
     "拓展链接",
     "Obsidian.lnk",
