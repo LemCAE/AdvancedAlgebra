@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "76143c1c2394e028",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3497cdacd1239d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "拓展链接/模约简测试.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "模约简测试"
-            }
-          },
-          {
-            "id": "8988963696ce636b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第二章 行列式/章节笔记.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "章节笔记"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "06c1bd246103938a",
         "type": "tabs",
         "children": [
