@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06c1bd246103938a",
+        "id": "427dcc9ed45d43fb",
         "type": "tabs",
         "children": [
           {
-            "id": "219b987eec944338",
+            "id": "571fc347badf14d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "第二章 行列式/章节笔记.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,6 +182,7 @@
   },
   "active": "31b02b9d0654cc88",
   "lastOpenFiles": [
+    "第二章 行列式/ImgSet/Pasted image 20251111193431.png",
     "第二章 行列式/ImgSet/Pasted image 20251105151907.png",
     "第二章 行列式/章节笔记.md",
     "第二章 行列式/ImgSet/Pasted image 20251105151828.png",
