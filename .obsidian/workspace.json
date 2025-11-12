@@ -6,6 +6,7 @@
       {
         "id": "427dcc9ed45d43fb",
         "type": "tabs",
+        "dimension": 20.408163265306122,
         "children": [
           {
             "id": "571fc347badf14d8",
@@ -15,7 +16,28 @@
               "state": {
                 "file": "第二章 行列式/章节笔记.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "章节笔记"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4937bd020d745e5",
+        "type": "tabs",
+        "dimension": 79.59183673469387,
+        "children": [
+          {
+            "id": "fd72cb45639fab95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第二章 行列式/章节笔记.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "章节笔记"
