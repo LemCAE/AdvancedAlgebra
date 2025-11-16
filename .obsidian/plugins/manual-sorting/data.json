@@ -1,0 +1,42 @@
+{
+  "customOrder": {
+    "/": [
+      "第一章 多项式",
+      "第二章 行列式",
+      "拓展链接",
+      "符号的定义"
+    ],
+    "第二章 行列式": [
+      "第二章 行列式/ImgSet",
+      "第二章 行列式/章节笔记.md"
+    ],
+    "第二章 行列式/ImgSet": [
+      "第二章 行列式/ImgSet/Pasted image 20251105151304.png",
+      "第二章 行列式/ImgSet/Pasted image 20251105151455.png",
+      "第二章 行列式/ImgSet/Pasted image 20251105151704.png",
+      "第二章 行列式/ImgSet/Pasted image 20251105151828.png",
+      "第二章 行列式/ImgSet/Pasted image 20251105151907.png",
+      "第二章 行列式/ImgSet/Pasted image 20251111193431.png"
+    ],
+    "第一章 多项式": [
+      "第一章 多项式/章节笔记.md"
+    ],
+    "符号的定义": [
+      "符号的定义/符号定义.md"
+    ],
+    "拓展链接": [
+      "拓展链接/封闭.md",
+      "拓展链接/零因子.md",
+      "拓展链接/模约简测试.md",
+      "拓展链接/模运算.md",
+      "拓展链接/牛顿多边形方法.md",
+      "拓展链接/佩龙判别法.md",
+      "拓展链接/数学归纳法.md",
+      "拓展链接/有限域分解算法.md",
+      "拓展链接/p-adic性质.md"
+    ]
+  },
+  "sortOrder": "customOrder",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
